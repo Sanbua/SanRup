@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @SanRup
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!---
+Progreso de las actividades
+poner un tick en las termiadas y sin tick en las que estan en progreso
+poner links a los codigos
+mirar emotes y que permite github de markdown
+
+
+--->
 
 <!---
 SanRup/SanRup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
