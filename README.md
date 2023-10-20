@@ -1,6 +1,16 @@
 ## Progreso de las tareas
 
 - [x] [Ejercicios Básicos.](https://github.com/SanRup/dwec/tree/main/02_Variables/EjerciciosBasicos)
+  - [x] [Ejercicio 1]()
+  - [x] [Ejercicio 2]()
+  - [x] [Ejercicio 3]()
+  - [x] [Ejercicio 4]()
+  - [x] [Ejercicio 5]()
+  - [x] [Ejercicio 6]()
+  - [x] [Ejercicio 7]()
+  - [x] [Ejercicio 8]()
+  - [x] [Ejercicio 9]()
+  - [x] [Ejercicio 10]()
 - [x] [Tarea Continua (Branches)](https://github.com/SanRup/dwec/branches/yours)
   - [x] [Tarea Continua 1](https://github.com/SanRup/dwec/tree/tareaContinua1/Pr%C3%A1cticas/TareaContinua)
   - [x] [Tarea Continua 2](https://github.com/SanRup/dwec/tree/tareaContinua2/Pr%C3%A1cticas/TareaContinua)
@@ -9,9 +19,14 @@
   - [x] [Tarea Continua 5](https://github.com/SanRup/dwec/tree/tareaContinua5/Pr%C3%A1cticas/TareaContinua)
   - [x] [Tarea Continua 6](https://github.com/SanRup/dwec/tree/tareaContinua6/Pr%C3%A1cticas/TareaContinua)
   - [x] [Tarea Continua 7](https://github.com/SanRup/dwec/tree/tareaContinua7/Pr%C3%A1cticas/TareaContinua)
-- [x] [La peliculera](https://github.com/SanRup/dwec/blob/main/02_Variables/Ejercicio02Peliculera.html)
-- [x] [El rombo](https://github.com/SanRup/dwec/blob/main/02_Variables/Ejercicio05Rombo.html)
-- [ ] [El tren]()
+- [ ] [Ejercicios Octubre]()
+  - [ ] [Socios de un club]()
+  - [ ] [Frase]()
+  - [ ] [El tren]()
+  
+  - [x] [El rombo](https://github.com/SanRup/dwec/blob/main/02_Variables/Ejercicio05Rombo.html)
+- [x] [La peliculera](https://github.com/SanRup/dwec/blob/main/02_Variables/Ejercicio02Peliculera.html) 
+  
 
 
 <!---
