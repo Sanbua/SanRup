@@ -1,6 +1,6 @@
-# :woman_technologist: Progreso de las tareas :woman_technologist:
+# :woman_technologist: **Progreso de las tareas** :woman_technologist:
 
-## [Ejercicios Básicos.](https://github.com/SanRup/dwec/tree/main/EjerciciosAulaVirtual/EjerciciosBasicos)
+## [**Ejercicios Básicos.**](https://github.com/SanRup/dwec/tree/main/EjerciciosAulaVirtual/EjerciciosBasicos)
 >  - [x] [Ejercicio 1](https://github.com/SanRup/dwec/blob/main/EjerciciosAulaVirtual/EjerciciosBasicos/ejerciciosBasicos01.html)
 >  - [x] [Ejercicio 2](https://github.com/SanRup/dwec/blob/main/EjerciciosAulaVirtual/EjerciciosBasicos/ejerciciosBasicos02.html)
 >  - [x] [Ejercicio 3](https://github.com/SanRup/dwec/blob/main/EjerciciosAulaVirtual/EjerciciosBasicos/ejerciciosBasicos03.html)
@@ -13,7 +13,7 @@
 >  - [x] [Ejercicio 10](https://github.com/SanRup/dwec/blob/main/EjerciciosAulaVirtual/EjerciciosBasicos/ejerciciosBasicos10.html)
      
 
-## [Tarea Continua (Branches)](https://github.com/SanRup/dwec/branches/yours)
+## [**Tarea Continua** (Branches)](https://github.com/SanRup/dwec/branches/yours)
 >  - [x] [Tarea Continua 1](https://github.com/SanRup/dwec/tree/tareaContinua1/Pr%C3%A1cticas/TareaContinua)
 >  - [x] [Tarea Continua 2](https://github.com/SanRup/dwec/tree/tareaContinua2/Pr%C3%A1cticas/TareaContinua)
 >  - [x] [Tarea Continua 3](https://github.com/SanRup/dwec/tree/tareaContinua3/Pr%C3%A1cticas/TareaContinua)
@@ -23,7 +23,7 @@
 >  - [x] [Tarea Continua 7](https://github.com/SanRup/dwec/tree/tareaContinua7/Pr%C3%A1cticas/TareaContinua)
 
  
-## [Ejercicios Octubre](https://github.com/SanRup/dwec/tree/main/EjerciciosAulaVirtual/EjerciciosOctubre)
+## [**Ejercicios Octubre**](https://github.com/SanRup/dwec/tree/main/EjerciciosAulaVirtual/EjerciciosOctubre)
 >  - [x] [Socios de un club](https://github.com/SanRup/dwec/blob/main/EjerciciosAulaVirtual/EjerciciosOctubre/Ejercicio4.1ArraysSocios.html)
 >  - [x] [Palabras](https://github.com/SanRup/dwec/blob/main/EjerciciosAulaVirtual/EjerciciosOctubre/Ejercicio9.1Palabras.html)
 >  - [x] Patrones
@@ -33,10 +33,10 @@
 >  - [x] [El Rombo](https://github.com/SanRup/dwec/blob/main/EjerciciosAulaVirtual/EjerciciosOctubre/EjercicioRombo.html)
 >  - [ ] [El tren](https://github.com/SanRup/dwec/blob/main/EjerciciosAulaVirtual/EjerciciosOctubre/EjercicioTren.html)
 
-## Otros ejercicios  
+## **Otros ejercicios** 
 > - [x] [La peliculera](https://github.com/SanRup/dwec/blob/main/EjerciciosAulaVirtual/LaPeliculera/Ejercicio02Peliculera.html)
 
-## [Prácticas](https://github.com/SanRup/dwec/tree/main/Pr%C3%A1cticas)
+## [**Prácticas**](https://github.com/SanRup/dwec/tree/main/Pr%C3%A1cticas)
 > - [x] [101](https://github.com/SanRup/dwec/tree/main/Pr%C3%A1cticas/101)
   
 
