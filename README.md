@@ -31,10 +31,11 @@
 >    > - [x] [Contador individual](https://github.com/SanRup/dwec/blob/main/EjerciciosAulaVirtual/EjerciciosOctubre/EjercicioPatrones_02contIndividual.html)
 >    > - [x] [Contador individual con array de objetos](https://github.com/SanRup/dwec/blob/main/EjerciciosAulaVirtual/EjerciciosOctubre/EjercicioPatrones_03arrayObj.html)
 >  - [x] [El Rombo](https://github.com/SanRup/dwec/blob/main/EjerciciosAulaVirtual/EjerciciosOctubre/EjercicioRombo.html)
->  - [ ] [El tren](https://github.com/SanRup/dwec/blob/main/EjerciciosAulaVirtual/EjerciciosOctubre/EjercicioTren.html)
+>  - [x] [El tren](https://github.com/SanRup/dwec/blob/main/EjerciciosAulaVirtual/EjerciciosOctubre/EjercicioTren.html)
 
 ## **Otros ejercicios** 
 > - [x] [La peliculera](https://github.com/SanRup/dwec/blob/main/EjerciciosAulaVirtual/LaPeliculera/Ejercicio02Peliculera.html)
+> - [ ] [Buscaminas]()
 
 ## [**Prácticas**](https://github.com/SanRup/dwec/tree/main/Pr%C3%A1cticas)
 > - [x] [101](https://github.com/SanRup/dwec/tree/main/Pr%C3%A1cticas/101)
