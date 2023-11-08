@@ -34,7 +34,7 @@
 >  - [x] [El tren](https://github.com/SanRup/dwec/blob/main/EjerciciosAulaVirtual/EjerciciosOctubre/EjercicioTren.html)
 
 ## **Objetos**
->  - [x] [Objetos y prototipe](https://github.com/SanRup/dwec/blob/main/03_Objetos/04ObjetosCreados/01EjercicioObjetosPrototipo.html)
+>  - [x] [Objetos y prototype](https://github.com/SanRup/dwec/blob/main/03_Objetos/04ObjetosCreados/01EjercicioObjetosPrototipo.html)
 
 ## **Otros ejercicios** 
 > - [x] [La peliculera](https://github.com/SanRup/dwec/blob/main/EjerciciosAulaVirtual/LaPeliculera/Ejercicio02Peliculera.html)
