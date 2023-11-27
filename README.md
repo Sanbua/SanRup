@@ -39,7 +39,7 @@
 ## **Otros ejercicios** 
 > - [x] [La peliculera](https://github.com/SanRup/dwec/blob/main/EjerciciosAulaVirtual/LaPeliculera/Ejercicio02Peliculera.html)
 > - [x] [Objetos y prototype](https://github.com/SanRup/dwec/blob/main/03_Objetos/04ObjetosCreados/01EjercicioObjetosPrototipo.html)
-> - [ ] [Buscaminas]()
+> - [ ] [Buscaminas](https://github.com/SanRup/dwec/tree/main/Pr%C3%A1cticas/300Buscaminas)
 
 ## [**Prácticas**](https://github.com/SanRup/dwec/tree/main/Pr%C3%A1cticas)
 > - [x] [101](https://github.com/SanRup/dwec/tree/main/Pr%C3%A1cticas/101)
